@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 360" width="880" height="360" role="img" aria-label="Shashank Singhal, software developer in India. I break AI-generated code before attackers do. Now building Proof and Tonearm for Android."><style>
+.pg{fill:#e8e8e6}.pn{fill:#f4f4f2;stroke:#222;stroke-width:2.5;stroke-linejoin:miter}
+.bb{fill:#fff;stroke:#222;stroke-width:2.5;stroke-linejoin:miter}
+.ink{fill:#222}.mu{fill:#5c5c5a}.ac{fill:#3346a8}.cap{fill:#f4f4f2}.capbg{fill:#222}
+.chip{fill:#fff;stroke:#222;stroke-width:1.5}.dot{fill:#222;opacity:.28}
+@media (prefers-color-scheme: dark){
+.pg{fill:#16181b}.pn{fill:#1f2226;stroke:#c9ccd1}.bb{fill:#272a2f;stroke:#c9ccd1}
+.ink{fill:#e4e4e2}.mu{fill:#9a9ea5}.ac{fill:#8fa0f2}.cap{fill:#16181b}.capbg{fill:#c9ccd1}
+.chip{fill:#272a2f;stroke:#c9ccd1}.dot{fill:#c9ccd1;opacity:.18}}
+</style><rect class="pg" width="880" height="360"/>
+<polygon class="pn" points="16,16 470,16 420,344 16,344"/>
+<polygon class="pn" points="482,16 864,16 864,162 458,180"/>
+<polygon class="pn" points="456,193 864,175 864,344 432,344"/>
+<clipPath id="c"><polygon points="456,193 864,175 864,344 432,344"/></clipPath>
+<g clip-path="url(#c)"><circle class="dot" cx="856" cy="336" r="2.20"/><circle class="dot" cx="849" cy="322" r="2.02"/><circle class="dot" cx="856" cy="308" r="1.84"/><circle class="dot" cx="849" cy="294" r="1.66"/><circle class="dot" cx="856" cy="280" r="1.48"/><circle class="dot" cx="849" cy="266" r="1.30"/><circle class="dot" cx="842" cy="336" r="2.02"/><circle class="dot" cx="835" cy="322" r="1.84"/><circle class="dot" cx="842" cy="308" r="1.66"/><circle class="dot" cx="835" cy="294" r="1.48"/><circle class="dot" cx="842" cy="280" r="1.30"/><circle class="dot" cx="835" cy="266" r="1.12"/><circle class="dot" cx="828" cy="336" r="1.84"/><circle class="dot" cx="821" cy="322" r="1.66"/><circle class="dot" cx="828" cy="308" r="1.48"/><circle class="dot" cx="821" cy="294" r="1.30"/><circle class="dot" cx="828" cy="280" r="1.12"/><circle class="dot" cx="814" cy="336" r="1.66"/><circle class="dot" cx="807" cy="322" r="1.48"/><circle class="dot" cx="814" cy="308" r="1.30"/><circle class="dot" cx="807" cy="294" r="1.12"/><circle class="dot" cx="814" cy="280" r="0.94"/><circle class="dot" cx="800" cy="336" r="1.48"/><circle class="dot" cx="793" cy="322" r="1.30"/><circle class="dot" cx="800" cy="308" r="1.12"/><circle class="dot" cx="793" cy="294" r="0.94"/><circle class="dot" cx="786" cy="336" r="1.30"/><circle class="dot" cx="779" cy="322" r="1.12"/><circle class="dot" cx="786" cy="308" r="0.94"/><circle class="dot" cx="772" cy="336" r="1.12"/><circle class="dot" cx="765" cy="322" r="0.94"/><circle class="dot" cx="758" cy="336" r="0.94"/><circle class="dot" cx="751" cy="322" r="0.76"/><circle class="dot" cx="744" cy="336" r="0.76"/></g>
+<polygon class="capbg" points="16,16 271.76,16 271.76,44 16,44"/><text class="cap" x="30" y="35" font-family="ui-monospace,SFMono-Regular,Consolas,'DejaVu Sans Mono','Liberation Mono',monospace" font-size="12" letter-spacing="1.5">SOFTWARE DEVELOPER · INDIA</text>
+<text class="ink" x="44" y="128" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="50" font-weight="800" letter-spacing="1">SHASHANK</text>
+<text class="ink" x="44" y="182" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="50" font-weight="800" letter-spacing="1">SINGHAL</text>
+<polygon class="ac" points="44,198 300,198 294,206 44,206"/>
+<text class="ink" x="44" y="240" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15">Builds web novel tools, scam detectors,</text>
+<text class="ink" x="44" y="262" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15">workflow automation and local-first apps.</text>
+<text class="ac" x="44" y="318" font-family="ui-monospace,SFMono-Regular,Consolas,'DejaVu Sans Mono','Liberation Mono',monospace" font-size="13" font-weight="700">&gt; open to software developer roles</text>
+<polygon class="bb" points="514,40 840,34 846,114 586,120 548,150 560,121 520,122"/>
+<text class="ink" x="540" y="72" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="20" font-weight="700">I break AI-generated code</text>
+<text class="ink" x="540" y="100" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="20" font-weight="700">before <tspan class="ac">attackers</tspan> do.</text>
+<polygon class="capbg" points="470,206 610,200 610,226 466,232"/>
+<text class="cap" x="480" y="222" font-family="ui-monospace,SFMono-Regular,Consolas,'DejaVu Sans Mono','Liberation Mono',monospace" font-size="12" letter-spacing="1.5">NOW BUILDING</text>
+<text class="ink" x="482" y="268" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="17" font-weight="700">Proof</text>
+<text class="mu" x="482" y="290" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="14">agentic verification for AI-generated code</text>
+<text class="ink" x="482" y="320" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="14"><tspan font-weight="700">Tonearm</tspan><tspan class="mu"> — coming to Android</tspan></text>
+</svg>

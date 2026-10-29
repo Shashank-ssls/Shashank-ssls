@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 410 220" width="410" height="220" role="img" aria-label="Game-Deal-Tracker: Self-hosted deal bot with Discord alerts. 4 pricing APIs, dedupe, region filter."><style>
+.pg{fill:#e8e8e6}.pn{fill:#f4f4f2;stroke:#222;stroke-width:2.5;stroke-linejoin:miter}
+.bb{fill:#fff;stroke:#222;stroke-width:2.5;stroke-linejoin:miter}
+.ink{fill:#222}.mu{fill:#5c5c5a}.ac{fill:#3346a8}.cap{fill:#f4f4f2}.capbg{fill:#222}
+.chip{fill:#fff;stroke:#222;stroke-width:1.5}.dot{fill:#222;opacity:.28}
+@media (prefers-color-scheme: dark){
+.pg{fill:#16181b}.pn{fill:#1f2226;stroke:#c9ccd1}.bb{fill:#272a2f;stroke:#c9ccd1}
+.ink{fill:#e4e4e2}.mu{fill:#9a9ea5}.ac{fill:#8fa0f2}.cap{fill:#16181b}.capbg{fill:#c9ccd1}
+.chip{fill:#272a2f;stroke:#c9ccd1}.dot{fill:#c9ccd1;opacity:.18}}
+</style><rect class="pg" width="410" height="220"/><polygon class="pn" points="10,10 400,10 386,210 10,210"/><polygon class="capbg" points="10,10 125.6,10 119.6,38 10,38"/><text class="cap" x="24" y="29" font-family="ui-monospace,SFMono-Regular,Consolas,'DejaVu Sans Mono','Liberation Mono',monospace" font-size="12" letter-spacing="1.5">AUTOMATION</text>
+<text class="ink" x="30" y="84" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="24" font-weight="800" letter-spacing=".5">GAME-DEAL-TRACKER</text>
+<polygon class="ac" points="30,94 110,94 106,99 30,99"/>
+<text class="ink" x="30" y="128" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="14.5">Self-hosted deal bot with Discord alerts.</text>
+<text class="mu" x="30" y="149" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="14.5">4 pricing APIs, dedupe, region filter.</text>
+<polygon class="chip" points="30,172 96,172 92,194 30,194"/><text class="ac" x="39" y="187" font-family="ui-monospace,SFMono-Regular,Consolas,'DejaVu Sans Mono','Liberation Mono',monospace" font-size="12" font-weight="700">Python</text><polygon class="chip" points="101.8,172 175,172 171,194 101.8,194"/><text class="ac" x="110.8" y="187" font-family="ui-monospace,SFMono-Regular,Consolas,'DejaVu Sans Mono','Liberation Mono',monospace" font-size="12" font-weight="700">Discord</text>
+<text class="mu" x="370" y="188" font-family="ui-monospace,SFMono-Regular,Consolas,'DejaVu Sans Mono','Liberation Mono',monospace" font-size="11" text-anchor="end" letter-spacing="1">VIEW ↗</text></svg>
