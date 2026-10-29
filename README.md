@@ -1,6 +1,6 @@
-<img src="hero.svg" width="100%" alt="Shashank Singhal — software developer in India. I break AI-generated code before attackers do. Now building Proof and Tonearm for Android.">
+<img src="hero.svg" width="100%" alt="Shashank Singhal — software developer in India. I break AI-generated code before attackers do. Now building Tonearm and Tallshot.">
 
-**Software developer** building workflow automation, local-first apps and tools that catch what AI-generated code gets wrong. Open to software developer roles.
+**Software developer** building workflow automation, local-first apps and tools that catch what AI-generated code gets wrong. Open to software engineering, AI/ML and workflow automation roles.
 
 <table>
 <tr>
