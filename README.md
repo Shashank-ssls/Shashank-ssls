@@ -17,6 +17,6 @@
 
 <p>
 <a href="mailto:shashanksinghal336@gmail.com">Email</a> ·
-<a href="https://www.linkedin.com/in/YOUR-HANDLE">LinkedIn</a> ·
+<a href="www.linkedin.com/in/shashank-singhal-b25077386">LinkedIn</a> ·
 <a href="https://github.com/Shashank-ssls?tab=repositories">All repositories</a>
 </p>
